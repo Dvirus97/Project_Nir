@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "front-angular/nir-app"
+    },
+    {
+      "path": "back-node"
+    },
+    {
+      "path": "types"
+    }
+  ],
+  "settings": {}
+}

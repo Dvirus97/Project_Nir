@@ -1,0 +1,75 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "coursesIds": [
+        "eae6df11-9a0c-475b-b120-b42bf608356c",
+        "55751990-adf0-449a-9ea6-ba9db961c0fe",
+        "bf435962-d289-4053-b1e1-2e967bba5134",
+        "c94cc335-e00f-4876-8d59-6f578ddaba7f",
+        "8ea8d7fd-1a6f-4322-8946-d3e7eced501b"
+      ],
+      "semesterNumber": 1,
+      "semesterAvg": 100,
+      "totalPoints": 80,
+      "Type": "semester",
+      "courses": []
+    },
+    {
+      "id": "2",
+      "coursesIds": [],
+      "semesterNumber": 2,
+      "semesterAvg": 0,
+      "totalPoints": 0,
+      "Type": "semester"
+    },
+    {
+      "id": "3",
+      "coursesIds": [],
+      "semesterNumber": 3,
+      "semesterAvg": 0,
+      "totalPoints": 0,
+      "Type": "semester"
+    },
+    {
+      "id": "4",
+      "coursesIds": [],
+      "semesterNumber": 4,
+      "semesterAvg": 0,
+      "totalPoints": 0,
+      "Type": "semester"
+    },
+    {
+      "id": "5",
+      "coursesIds": [],
+      "semesterNumber": 5,
+      "semesterAvg": 0,
+      "totalPoints": 0,
+      "Type": "semester"
+    },
+    {
+      "id": "6",
+      "coursesIds": [],
+      "semesterNumber": 6,
+      "semesterAvg": 0,
+      "totalPoints": 0,
+      "Type": "semester"
+    },
+    {
+      "id": "7",
+      "coursesIds": [],
+      "semesterNumber": 7,
+      "semesterAvg": 0,
+      "totalPoints": 0,
+      "Type": "semester"
+    },
+    {
+      "id": "8",
+      "coursesIds": [],
+      "semesterNumber": 8,
+      "semesterAvg": 0,
+      "totalPoints": 0,
+      "Type": "semester"
+    }
+  ]
+}

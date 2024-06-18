@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "eae6df11-9a0c-475b-b120-b42bf608356c",
+      "Type": "course",
+      "points": 1,
+      "name": "course1",
+      "grade": 1,
+      "courseType": 2
+    },
+    {
+      "id": "55751990-adf0-449a-9ea6-ba9db961c0fe",
+      "Type": "course",
+      "points": 2,
+      "name": "course2",
+      "grade": 1,
+      "courseType": 0
+    },
+    {
+      "id": "bf435962-d289-4053-b1e1-2e967bba5134",
+      "Type": "course",
+      "points": 3,
+      "name": "course3",
+      "grade": 1,
+      "courseType": 0
+    },
+    {
+      "id": "c94cc335-e00f-4876-8d59-6f578ddaba7f",
+      "Type": "course",
+      "points": 4,
+      "name": "course4",
+      "grade": 1,
+      "courseType": 0
+    },
+    {
+      "id": "3b754d51-5a37-4c7b-ab71-7df17b78ae91",
+      "Type": "course",
+      "points": 0,
+      "name": "test?",
+      "grade": 0,
+      "courseType": 0
+    },
+    {
+      "id": "8ea8d7fd-1a6f-4322-8946-d3e7eced501b",
+      "Type": "course",
+      "points": 0,
+      "name": "course5",
+      "grade": 0,
+      "courseType": 0
+    }
+  ]
+}
